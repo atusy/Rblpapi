@@ -22,3 +22,5 @@ URL: https://dirk.eddelbuettel.com/code/rblpapi.html, https://github.com/Rblp/Rb
 BugReports: https://github.com/Rblp/Rblpapi/issues
 License: file LICENSE
 RoxygenNote: 6.0.1
+Remotes:
+ atusy/minidown
